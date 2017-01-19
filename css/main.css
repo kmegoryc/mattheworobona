@@ -113,7 +113,7 @@ h2 {
 }
 
 #slide1:before {
-  transform: translateZ(-1px) scale(2);
+  transform: translateZ(0) scale(1);
   z-index: -1;
   height: 100vh;
 }
